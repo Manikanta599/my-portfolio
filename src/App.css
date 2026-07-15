@@ -1,0 +1,7 @@
+/* App-level styles are minimal — all component styles live in their own CSS files */
+/* Global layout helpers */
+
+main {
+  position: relative;
+  z-index: 1;
+}
