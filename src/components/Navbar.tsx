@@ -58,7 +58,7 @@ export default function Navbar() {
           ))}
           <li>
             <a
-              href="/Manikanta_Resume.pdf"
+              href="https://drive.google.com/file/d/1krUzBeJ81l1JniJRTFVxId-pPora_PCa/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="navbar__resume-btn"
